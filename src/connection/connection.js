@@ -4,7 +4,7 @@ const conn = mysql.createConnection({
     user: 'devuser',
     password: 'Mysql123',
     host: 'localhost',
-    database: 'expressmysqlnew',
+    database: 'ujianbackend',
     port: '3306'
 })
 
